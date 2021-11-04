@@ -1,0 +1,20 @@
+2cd8058 (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+284fa49 HEAD@{1}: checkout: moving from develop to master
+2cd8058 (HEAD -> master, origin/master, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): Resolved merge conflict by incorporating both suggestions
+6602a1d (origin/images, images) HEAD@{3}: merge images: Fast-forward
+d90b0fc HEAD@{4}: checkout: moving from styles to develop
+97f3508 (origin/styles, styles) HEAD@{5}: commit: styles added into index.html
+d898a4c HEAD@{6}: commit: styles added
+d90b0fc HEAD@{7}: checkout: moving from images to styles
+6602a1d (origin/images, images) HEAD@{8}: checkout: moving from styles to images
+d90b0fc HEAD@{9}: checkout: moving from images to styles
+6602a1d (origin/images, images) HEAD@{10}: checkout: moving from styles to images
+d90b0fc HEAD@{11}: checkout: moving from develop to styles
+d90b0fc HEAD@{12}: checkout: moving from images to develop
+6602a1d (origin/images, images) HEAD@{13}: commit: images inserted into index.html
+6241cef HEAD@{14}: commit: images added
+d90b0fc HEAD@{15}: checkout: moving from develop to images
+d90b0fc HEAD@{16}: commit: index added
+284fa49 HEAD@{17}: checkout: moving from master to develop
+284fa49 HEAD@{18}: commit: Initial commit
+40802b1 HEAD@{19}: clone: from github.com:Portal2Git/DevOps_online_Kiev_2021Q4.git
