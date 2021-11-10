@@ -29,6 +29,6 @@ KVM (for Kernel-based Virtual Machine) is an open-source virtualization solution
 PART 2. WORK WITH VIRTUALBOX
 
 ![alt text](img/1_4.png "VM1")
-![alt text](img/1_5.png "VM1 clone")
+![alt text](img/1_6.png "VM1 clone")
 ![alt text](img/1_7.png "group")
 
