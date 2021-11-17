@@ -31,4 +31,7 @@ PART 2. WORK WITH VIRTUALBOX
 ![alt text](img/1_4.png "VM1")
 ![alt text](img/1_6.png "VM1 clone")
 ![alt text](img/1_7.png "group")
-
+![alt text](img/1_8.png "tree of snapshots")
+![alt text](img/1_9.png "Import VM")
+![alt text](img/2_2.png "USB")
+![alt text](img/2_3.png "Shared Folder")
