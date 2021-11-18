@@ -35,3 +35,18 @@ PART 2. WORK WITH VIRTUALBOX
 ![alt text](img/1_9.png "Import VM")
 ![alt text](img/2_2.png "USB")
 ![alt text](img/2_3.png "Shared Folder")
+
+commandline screenshots
+
+![alt text](img/cli1.png "Command line")
+![alt text](img/cli2.png "Command line")
+![alt text](img/cli3.png "Command line")
+![alt text](img/cli4.png "Command line")
+![alt text](img/cli5.png "Command line")
+
+PART 3. WORK WITH VAGRANT
+
+![alt text](img/3_1-4.png "Install")
+![alt text](img/3_5-6.png "Connect")
+![alt text](img/3_7.png "Stop & Destroy")
+![alt text](img/3_8.png "Creation of own box")
