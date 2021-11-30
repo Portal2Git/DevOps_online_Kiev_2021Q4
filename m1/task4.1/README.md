@@ -58,7 +58,7 @@ CREATE USER 'user1'@'localhost' IDENTIFIED BY '11111111';
 GRANT CREATE, DROP, BACKUP ON *.* TO 'user1'@'localhost';
 
 CREATE USER 'user2'@'localhost' IDENTIFIED BY '22222222';
-GRANT SELECT, INSERT, UPDATE ON testdb.* TO 'user2'@'localhost';
+GRANT SELECT, INSERT, UPDATE ON TestDB.* TO 'user2'@'localhost';
 
 SELECT * FROM Orders
 JOIN Persons ON Orders.PersonID=Persons.PersonID
