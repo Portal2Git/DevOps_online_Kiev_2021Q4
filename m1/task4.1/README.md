@@ -12,6 +12,7 @@ CREATE TABLE Sex (
     Value varchar(16),
     PRIMARY KEY (SexID)
 );
+
 CREATE TABLE Persons (
     PersonID int NOT NULL AUTO_INCREMENT,
     LastName varchar(64),
@@ -67,9 +68,9 @@ ORDER BY OrderNumber;
 
 PART 2. 
 
-sudo mysqldump -u root -p testdb > testdb.sql
+sudo mysqldump -u root -p TestDB > testdb.sql
 
-sudo mysql -u root -p testdb < testdb.sql
+sudo mysql -u root -p TestDB < testdb.sql
 
 mysql -u admin -h database-3.cjomhobfbpeg.us-east-2.rds.amazonaws.com -p12345678
 
