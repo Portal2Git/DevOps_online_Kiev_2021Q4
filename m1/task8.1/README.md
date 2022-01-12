@@ -2,5 +2,6 @@
 
 TASK 8.1
 
-[task file](solv_square_equation.py)
+[task](solv_square_equation.py)
+
 [unittests](test_solv_square_equation.py)
